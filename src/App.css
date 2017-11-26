@@ -29,15 +29,15 @@
 
 .incButt{
   background: rgb(37, 255, 190);
-  padding: 7px;
-  margin-right: 7px;
+  padding: 10px;
+  margin-right: 8px;
   margin-top: 7px;
 }
 
 .decButt{
   background:rgb(222, 201, 218);
-  padding: 7px;
-  margin-left: 7px;
+  padding: 10px;
+  margin-left: 8px;
   margin-top: 7px;
 }
 
